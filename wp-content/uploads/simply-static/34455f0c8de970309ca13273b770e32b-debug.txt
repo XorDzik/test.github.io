@@ -1,0 +1,22 @@
+[2024-07-08 19:27:28] [class-ss-url-fetcher.php:103] Filesize: 93087 bytes
+[2024-07-08 19:27:28] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-07-08 19:27:28] [class-ss-url-fetcher.php:233] New filename for static page: 404/index.html
+[2024-07-08 19:27:28] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Windows\TEMP/668c3d9f7b80b-s8I9Ab.tmp to C:\Users\piotr\Local Sites\test\app\public/wp-content/uploads\simply-static\temp-files/simply-static-1-1720466661\404/index.html
+[2024-07-08 19:27:28] [class-ss-generate-404-task.php:119] Replacing URLs in the static file
+[2024-07-08 19:27:29] [class-ss-generate-404-task.php:125] We're saving this URL; keeping the static file
+[2024-07-08 19:27:29] [class-ss-page.php:118] Checking Content Identical:05d658160f695bda03b6639493865d5075057d79===. Value: FALSE
+[2024-07-08 19:27:29] [class-ss-task.php:44] Status message: [generate_404] 404 Page generated
+[2024-07-08 19:27:29] [class-ss-archive-creation-job.php:175] We've found our next task: create_zip_archive
+[2024-07-08 19:27:29] [class-ss-archive-creation-job.php:136] Current task: create_zip_archive
+[2024-07-08 19:27:29] [class-ss-archive-creation-job.php:153] Performing task: create_zip_archive
+[2024-07-08 19:27:29] [class-ss-create-zip-archive.php:71] Fetching list of files to include in zip
+[2024-07-08 19:27:29] [class-ss-create-zip-archive.php:80] Creating zip archive
+[2024-07-08 19:27:29] [class-ss-task.php:44] Status message: [create_zip_archive] ZIP archive created:  <a href="http://test.local/wp-content/uploads/simply-static/temp-files/simply-static-1-1720466661.zip">Click here to download</a>
+[2024-07-08 19:27:29] [class-ss-archive-creation-job.php:175] We've found our next task: wrapup
+[2024-07-08 19:27:29] [class-ss-archive-creation-job.php:136] Current task: wrapup
+[2024-07-08 19:27:29] [class-ss-archive-creation-job.php:153] Performing task: wrapup
+[2024-07-08 19:27:29] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2024-07-08 19:27:29] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2024-07-08 19:27:29] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
+[2024-07-08 19:27:29] [class-ss-archive-creation-job.php:197] Completing the job
+[2024-07-08 19:27:29] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:03:08
